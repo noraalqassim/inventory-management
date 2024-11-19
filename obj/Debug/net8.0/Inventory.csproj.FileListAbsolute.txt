@@ -1,0 +1,15 @@
+C:\Users\lenovo\sda-3-online-inventory-management\bin\Debug\net8.0\Inventory.exe
+C:\Users\lenovo\sda-3-online-inventory-management\bin\Debug\net8.0\Inventory.deps.json
+C:\Users\lenovo\sda-3-online-inventory-management\bin\Debug\net8.0\Inventory.runtimeconfig.json
+C:\Users\lenovo\sda-3-online-inventory-management\bin\Debug\net8.0\Inventory.dll
+C:\Users\lenovo\sda-3-online-inventory-management\bin\Debug\net8.0\Inventory.pdb
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.sourcelink.json
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.dll
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\refint\Inventory.dll
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.pdb
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\Inventory.genruntimeconfig.cache
+C:\Users\lenovo\sda-3-online-inventory-management\obj\Debug\net8.0\ref\Inventory.dll
